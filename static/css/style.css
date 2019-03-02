@@ -1,5 +1,47 @@
 .number-box{
-    font-size: 64px;
-    text-align: center;
+    font-size: 15px;
+    text-align: left;
     line-height: normal;
+}
+
+.section-paragraph{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+
+.number-box{
+       font-size: 30px;
+ 
+}
+
+i{
+    margin-right: 20px;
+    
+}
+
+.chart{
+    margin: 0 auto;
+}
+
+.section-heading, #discipline-selector {
+	display: inline-block;	
+	float: none;
+	margin: 0;
+}
+
+.title{
+    text-align: center;
+}
+
+.charts{
+    display:flex;
+    flex-flow:row wrap;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.chart{
+        justify-content: center;
+
 }
